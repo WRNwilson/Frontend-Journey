@@ -1,0 +1,16 @@
+body{
+	background: url(https://img1.coastalliving.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/1553193950/ocean-horizon-924454206.jpg?itok=UtID5RfO);
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+h1{
+	color: #E16C1DFF
+	border: 2px solid black;
+	/*border-color: black;
+	border-width: 5px;
+	border-style: solid;*/
+}
+h2{
+	color: #B746B8FF
+}
