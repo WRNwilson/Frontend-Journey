@@ -1,0 +1,23 @@
+body{
+	background:#E3751BFF;
+	} 
+
+h1{
+	color: blue
+}
+
+li{
+  border: 2px solid red
+}
+
+#special{
+		background: red
+}
+
+.highlight{
+	background: yellow 
+}
+
+.completed{
+	text-decoration: line-through;
+}
