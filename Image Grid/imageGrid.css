@@ -1,0 +1,39 @@
+h1{
+	font-family: Lexend Peta;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: center;
+	color: #2c3e50;
+} 
+
+img {
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 3%;
+	border-radius: 10%;
+	display: block;
+	margin-left: 55px;
+}
+
+.background {
+  background-image: url(https://pbs.twimg.com/media/EghX-A8UMAEOkd4?format=jpg&name=large);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3px;
+  height: 220vh;
+  width: 100%;
+}
+
+.blur {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(4px); 
+  padding: 3px;
+  height: 220vh;
+  width: 100%;
+}
+
+p {
+	text-align: center;
+}
